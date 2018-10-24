@@ -1,0 +1,25 @@
+{
+  "name": "nodedemo",
+  "version": "1.0.0",
+  "description": "Node homework for a web development course",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamiKoh/NodeDemo.git"
+  },
+  "keywords": [
+    "NodeJs"
+  ],
+  "author": "Sami Kohvakka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamiKoh/NodeDemo/issues"
+  },
+  "homepage": "https://github.com/SamiKoh/NodeDemo#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
